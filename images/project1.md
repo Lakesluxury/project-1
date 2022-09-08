@@ -12,6 +12,16 @@
 
 ![apache status](./Apache%20Status.PNG)
 
+`curl http://127.0.0.1:80`
+
+![port change](./change%20to%20port%2080.PNG)
+
+`http://54.211.231.38:80`
+
+![local access](./local%20access%20proof.PNG)
+
+
+
 
 
 
