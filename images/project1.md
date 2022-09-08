@@ -20,6 +20,14 @@
 
 ![local access](./local%20access%20proof.PNG)
 
+`sudo mysql`
+
+![mysql login](./mysql%20login.PNG)
+
+`exit`
+
+![mysql exit](./mysql%20exit.PNG)
+
 
 
 
