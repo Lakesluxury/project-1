@@ -28,6 +28,14 @@
 
 ![mysql exit](./mysql%20exit.PNG)
 
+`sudo mysql -p`
+
+![mysql login1](./Mysql%20login1.PNG)
+
+`php -v`
+
+![php instal confirm](./php%20instal%20confirm.PNG)
+
 
 
 
