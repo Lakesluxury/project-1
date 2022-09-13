@@ -36,6 +36,23 @@
 
 ![php instal confirm](./php%20instal%20confirm.PNG)
 
+`sudo ls /etc/apache2/sites-available`
+
+![sites available](./new%20file%20in%20site.PNG)
+
+`sudo apache2ctl configtest`
+
+![syntax check](./syntax%20check.PNG)
+
+![url with ip address](./url%20with%20ip%20address.PNG)
+
+`<?php
+phpinfo();`
+
+![php code](./php%20intall%20final%20result.PNG)
+
+
+
 
 
 
